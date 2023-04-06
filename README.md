@@ -8,7 +8,7 @@
 This project is a simple program for guessing a random number within a time period using a random and time module with a loop which executes until the user guesses the correct number.
 
 ### Setup
-Install Python 3.11.2
+Install Python 3.11.2.
 Install any IDE to run the code.
 Clone the repository or download the code.
 Run the program.
