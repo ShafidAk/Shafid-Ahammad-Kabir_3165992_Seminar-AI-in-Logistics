@@ -1,5 +1,5 @@
 # Table of Contents
-* [general info](#general-info)
+* [General info](#general-info)
 * [Setup](#setup)
 * [How to play](#how-to-play)
 
