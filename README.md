@@ -1,5 +1,5 @@
 # Guess the number game
-Shafid Ahammad Kabir
+Shafid Ahammad Kabir -
 Matriculation Number: 3165992
 
 ## Table of Contents
