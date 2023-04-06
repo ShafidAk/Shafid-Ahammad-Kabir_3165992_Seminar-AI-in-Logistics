@@ -6,7 +6,7 @@
 
 
 General info
-This project is a simple program for guessing a random number within a time period using a random and time module with a loop which executes until the user guesses the correct number.
+This project is a simple program for guessing a random number within a time period using random and time module with a loop which executes until the user guesses the correct number.
 
 Setup
 Install Python 3.11.2
